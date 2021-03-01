@@ -14,7 +14,7 @@ After you have installed *pip* just types these in your *terminal* :
 pip install wikipedia  
 pip install wolframalpha  
 
-**How to creat API ID on Wolframalpha** : https://products.wolframalpha.com/short-answers-api/documentation/  
+**How to creat AppID on Wolframalpha** : https://products.wolframalpha.com/short-answers-api/documentation/  
 
 ***Main Motive Behind these applications are ***:  
 
