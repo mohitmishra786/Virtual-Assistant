@@ -16,7 +16,7 @@ pip install wolframalpha
 
 **How to creat AppID on Wolframalpha** : https://products.wolframalpha.com/short-answers-api/documentation/  
 
-***Main Motive Behind these applications are ***:  
+***Main Motive Behind these applications are***:  
 
 1. *Using wikipedia for extracting the result of our query*
 2. *Getting data from Wolframalpha*
