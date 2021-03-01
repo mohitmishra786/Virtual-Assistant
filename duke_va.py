@@ -5,7 +5,7 @@ import pyttsx3        # We are using this for Text To Speech and by the way you 
 
 
 #Here in the API ID put your own API id by making at Wolframalpha
-client = wolframalpha.Client('API ID') # I had added a link of how to create an API id on wolframalpha in readme file do check it.
+client = wolframalpha.Client('App ID') # I had added a link of how to create an API reference(AppID) on wolframalpha in readme file do check it.
 
 
 
