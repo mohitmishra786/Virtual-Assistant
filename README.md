@@ -2,17 +2,17 @@
 MOTIVATION : I made this project to collect data from two most popular sites and get results from them in the same window prompt.
 
 For this program we need some of pip so we have to install them in our machines.
-Installing pip is very easy and straighforward.
-FOR WINDOWS : In windows pip already came installed with python.
-FOR MAC : Go to your application and open the terminal and type (sudo easy_install pip)
+Installing pip is very easy and straighforward.__
+FOR WINDOWS : In windows pip already came installed with python.__
+FOR MAC : Go to your application and open the terminal and type (sudo easy_install pip)__
 FOR LINUX : Go to the terminal and type (sudo apt-get install pip)
 
 We are going to use Wikipedia and Wolframalpha APIs to collect data.
 
 After you haveinstalled pip just types these in your terminal :
 
-pip install wikipedia
-pip install wolframalpha
+pip install wikipedia__
+pip install wolframalpha__
 
 Main Motive Behind these applications are :
 
